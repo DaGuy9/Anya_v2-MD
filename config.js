@@ -22,27 +22,27 @@ global.lApiKey = {// if this API key get expired then please go to https://api.l
 }
 
 
-global.botname = "Queen Anya" 
-global.author = "Enter Author Name Here"  
-global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
-global.myweb = "Enter Your Any Website Profile Link Here"
-global.footer = "©\t" + "Enter Your Watermark Here"
-global.prefa = ['-'] // single prefix
+global.botname = "Samantha ThaBot" 
+global.author = "👼🏿⚛️ŦђคGยץ👼🏿⚛️"  
+global.packname = "Sคmคງtђค"  
+global.myweb = "https://tha-guy.netlify.app/"
+global.footer = "©\t" + "ThaGuy"
+global.prefa = ['<'] // single prefix
 global.themeemoji = "🎐"
 global.autoBio = "$mode : $time ⌚ || $date 🗓️ || $botname" // Leave it as it is if you didn't understood!
-global.socialText = `*⪧⪢ Please join this group for by bot's announcement.*`
-global.socialLink = `*⪧⪢ https://chat.whatsapp.com/HshHS6kHF9NHnA9lfMwwSM 💝*`
+global.socialText = `*⪧⪢ Please join this group for by bot's announcement.   Join now lol *`
+global.socialLink = `*⪧⪢  No link forrrrr now 💝*`
 
 
-global.ownername = "Enter Owner Name Here"    
-global.ownernumber = ["918811074852"]
-global.ytname = "YT: Enter Your Channel Name Here"
-global.continent = "Asia" // your continent name 
-global.region = "Enter Your Country Name Here"
-global.state = "Enter Your State Name Here" // your state name
-global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
-global.instagramId = "Enter Your Insta ID Here"
-global.email = "Enter Your Email ID Here"
+global.ownername = "David"    
+global.ownernumber = ["2349125705760"]
+global.ytname = "YT: https://youtube.com/@the_GUY4"
+global.continent = "Africa" // your continent name 
+global.region = "Nigeria"
+global.state = "Abuja" // your state name
+global.timezone = "Western-African" // search on google if you don't know the timezone of your country //
+global.instagramId = ""
+global.email = "testimony1201@gmail.com"
 
 
 // Greeting messages
@@ -54,9 +54,9 @@ global.greet4 = "Good night 😴" // after 8:30 PM
 
 //--------------- Tip ----------------\\
 global.Tips = [
-`Type *$prefix info* for more information...`,
+`Type *<* for more information...`,
 `Type *$prefix settings* to commit changes in the bot.`,
-`If you got a bug or error, then please report to developer asap by *$prefix report* command.`,
+`If you got a bug or error, then please report to developer asap by *$prefix  command.`,
 "if you want only admins could use this bot, type *$prefix only_admin*.",
 "You can change your prefix type to single prefix or multi prefix, just type *$prefix singlePrefix* or *$prefix multiPrefix* or *$prefix allPrefix*"
 ]
@@ -69,7 +69,7 @@ global.allmenuImg = fs.readFileSync('./AnyaPikaMedia/Allmenu.jpg') // Thumbnail 
 
 global.mess = {
     success: 'Done ✅',
-    admin: 'You must be an admin to use this command.',
+    admin: 'You must be a fuckin admin to use this command.',
     botAdmin: 'The bot needs to be an admin to process this command.',
     owner: 'You are not the owner of this bot so you cannot use this command.',
     group: 'This command is only made for group chats.',
@@ -77,7 +77,7 @@ global.mess = {
     wait: '```「▰▰▰▱▱▱▱▱▱▱」Loading...```',
     link: 'I need a link to process this command.',
     error: '```404 Error```',
-    ban: `You're banned from using this bot!`,
+    ban: `You're banned from using this bot! forever`,
     nsfw: 'This group is not *NSFW* enabled.',
     banChat: 'This group is banned from using this bot, please contact owner to get unbanned.'
 }
